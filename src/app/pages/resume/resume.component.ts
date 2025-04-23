@@ -101,9 +101,10 @@ export class ResumeComponent {
       company: '緯創軟體(WITS)',
       location: 'Hsinchu',
       description: [
-        '駐廠：台積電12廠',
-        'Spring boot 版本升級',
-        '...'
+        'Client Site: TSMC Fab 12P7 (on-site support)',
+        'Upgraded Spring Boot applications from 2.x to 3.x.',
+        'Wrote test cases with JUnit 5 for backend services',
+        'Migrated legacy Java EE applications to Spring Boot.'
       ]
     },
     {
